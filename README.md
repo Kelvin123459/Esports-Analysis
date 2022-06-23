@@ -1,6 +1,6 @@
-<h1 align="center"><font style="color:darkblue;"> 🕹️ eSports Analysis 🕹️ </font></h1> 
+<h1 align="center" color="#6C5B7B"> 🕹️ eSports Analysis 🕹️ </h1> 
 Author: Kelvin García Muñiz
-***
+
 
 ### What are eSports?
 
