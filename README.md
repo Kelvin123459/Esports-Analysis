@@ -1,4 +1,4 @@
-# eSports-Analysis
+<h1 align="center"><font style="style=color:darkblue;"> 🕹️ eSports Analysis 🕹️ </font></h1> 
 Author: Kelvin García Muñiz
 ***
 
