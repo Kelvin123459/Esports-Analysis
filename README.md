@@ -1,6 +1,5 @@
-<h1 align="center"><font style="style=color:darkblue;"> 🕹️ eSports Analysis 🕹️ </font></h1> 
+<h1 align="center"><font style="color:darkblue;"> 🕹️ eSports Analysis 🕹️ </font></h1> 
 Author: Kelvin García Muñiz
-***
 
 ### What are eSports?
 Esports refers to a relatively new class of spectator entertainment in which video game players compete against each other in a specific game. Esports mimics the same concept of traditional sports in most of its aspects (broadcasters, teams, live-viewings, arenas, etc). The genre started development amidst 1990s, however, it was not after 2010 that it began getting major recognition. 
