@@ -2,7 +2,7 @@
 Author: Kelvin García Muñiz
 
 
-### What are eSports?
+## What are eSports?
 
 Esports refers to a relatively new class of spectator entertainment in which video game players compete against each other in a specific game. Esports mimics the same concept of traditional sports in most of its aspects (broadcasters, teams, live-viewings, arenas, etc). The genre started development amidst 1990s, however, it was not after 2010 that it began getting major recognition. 
 
@@ -10,7 +10,7 @@ eSports today forms part of a multimillion dollar industry, with thousands of pl
 
 ***
 
-### eSports earnings and the business' grey area
+## eSports earnings and the business' grey area
 
 
 Current eSports lies between a grey area in both, recognition as a formal sport and solidification of rules in an international aspect. Despite their popularity, which attacks millions of frequent viewers per tournament, they lack a defined set of rules that deals with athlete imports, exports and sets boundaries to its fluidity. 
@@ -19,7 +19,7 @@ However, there is one undeniable aspect that exists: its profitability.
 
 ***
 
-### About this analysis
+## About this analysis
 
 The main purpose of this study is to analyze the history of eSports earning over the last 20 years to establish trends, their most profitable games and their overall history. 
 
@@ -31,7 +31,7 @@ For better visualization refer to its corresponding [Dashboard](put here).
 
 ***
 
-### References
+## References
 
 #### Background
 >1. [eSports - Investopedia](https://www.investopedia.com/terms/e/esports.asp) - (Chen, J; 2021)
