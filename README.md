@@ -27,7 +27,7 @@ The data used in this analysis was scraped from [esportsearnings.com](https://ww
 
 To view how this data was scraped refer to its pertinent [Github Repository](https://github.com/Kelvin123459/Esportearnings-scraper). 
 
-For better visualization refer to its corresponding [Dashboard](put here). 
+For better visualization refer to its corresponding [Dashboard](https://public.tableau.com/views/eSportsAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link). 
 
 ***
 
